@@ -297,12 +297,12 @@ textarea.invalid {
 }
 
 
-.attribution {
+/* .attribution {
   font-size: 11px;
   text-align: center;
   margin-top: 53rem;
   margin-left: -32rem;
-}
+} */
 .attribution a { color: hsl(228, 45%, 44%); }
 
 @keyframes toastIn {
